@@ -1,2 +1,2 @@
 # NLP self study material
- Natural Language Processing: Foundations (NUS)  
+This is about the assigment in the EDX course: Natural Language Processing: Foundations (NUS)  
